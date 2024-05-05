@@ -1,0 +1,8 @@
+fastapi
+streamlit
+python-dotenv
+langchain
+uvicorn
+langserve
+sse_starlette
+ctransformers
